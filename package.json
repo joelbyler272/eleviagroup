@@ -1,0 +1,25 @@
+{
+  "name": "eleviagroup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing website for Elevia Group. Translation. Transformation.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^11.5.4",
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.35",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^3.4.13"
+  }
+}

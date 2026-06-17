@@ -41,9 +41,7 @@ export default function ToolsPage() {
             <p className="mt-8 max-w-2xl font-body text-lg leading-relaxed text-warm-paper/70">
               A short, working list for non-technical leaders. Every tool here is
               available now, costs under 50 dollars a month per person, and earns
-              its place by saving real time, not by being new. We take no money
-              from any maker on this list. Prices were pulled in {PULLED}, and each
-              name links to the tool so you can check the current price yourself.
+              its place by saving real time.
             </p>
           </Reveal>
         </div>
@@ -155,7 +153,7 @@ export default function ToolsPage() {
             </h2>
             <p className="mt-6 font-body text-lg leading-relaxed text-warm-paper/70">
               These get you hours back. They do not, on their own, change how the
-              business runs. A drawer of good tools is still a drawer of tools.
+              organization runs. A drawer of good tools is still a drawer of tools.
               Turning them into an operating model, where the right work happens
               without you touching it, is the rest of what we do.
             </p>

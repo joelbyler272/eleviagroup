@@ -15,7 +15,7 @@ const questions = [
   },
   {
     q: 'I do not understand AI.',
-    a: 'You do not need to. You understand your business, and that is what matters. You work with a dashboard, not code. You approve, flag, and decide, the same things you do today.',
+    a: 'You do not need to. You understand your organization, and that is what matters. You work with a dashboard, not code. You approve, flag, and decide, the same things you do today.',
   },
   {
     q: 'What happens if you leave?',
@@ -32,7 +32,7 @@ export default function HlaoQuestions() {
             Common questions
           </p>
           <h2 className="mt-6 font-display text-3xl font-light leading-tight text-near-black sm:text-4xl">
-            The things owners ask first.
+            The things leaders ask first.
           </h2>
         </Reveal>
 

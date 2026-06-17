@@ -35,14 +35,13 @@ export default function ResearchPage() {
               </p>
             </div>
             <h1 className="mt-7 font-display text-4xl font-light leading-[1.1] text-warm-paper sm:text-5xl">
-              The evidence on AI reaching smaller businesses.
+              The evidence on AI reaching small and mid-sized organizations.
             </h1>
             <p className="mt-8 max-w-2xl font-body text-lg leading-relaxed text-warm-paper/70">
               We track how AI actually shows up in small and mid-sized
-              businesses, the kind with ten to two hundred people and little or no
-              technology staff. The same pattern keeps repeating. The tools
-              arrive before the guidance does. Awareness is rarely the problem.
-              Translation is.
+              organizations, the kind with ten to two hundred people and little
+              or no technology staff. Where the tools arrive before the guidance
+              does. And awareness is rarely the problem, the translation is.
             </p>
           </Reveal>
         </div>

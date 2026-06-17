@@ -14,7 +14,7 @@ export default function CTA() {
             One conversation. No pitch deck.
           </h2>
           <p className="mt-6 font-body text-lg leading-relaxed text-warm-paper/80">
-            Just a plain-language look at what&apos;s possible for your business.
+            Just a plain-language look at what&apos;s possible for your organization.
             If it fits, we build it together.
           </p>
           <div className="mt-9">

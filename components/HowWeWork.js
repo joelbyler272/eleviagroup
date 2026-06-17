@@ -11,12 +11,12 @@ const steps = [
   {
     number: '01',
     title: 'Assessment',
-    body: 'A clear look at where your business is today, which tools are worth it, and which are safe to trust. A specific picture, not generic recommendations.',
+    body: 'A clear look at where your organization is today, which tools are worth it, and which are safe to trust.',
   },
   {
     number: '02',
     title: 'Build',
-    body: 'We design and build your HLAO operating model. Agents go to work. Your team gets time back.',
+    body: 'We design and build your Roadmap and HLAO operating model. Agents go to work. Your team gets time back.',
   },
   {
     number: '03',

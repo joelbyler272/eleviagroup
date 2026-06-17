@@ -24,14 +24,14 @@ export default function Problem() {
 
           <div className="lg:col-span-6 lg:col-start-7">
             <p className="font-body text-xl leading-relaxed text-near-black">
-              Most owners have already tried AI. They have the tools. What they do
-              not have is a CTO to call, a roadmap to follow, or a plain-language
-              read on what any of it means for Monday morning.
+              Most organizational leaders have already tried AI. But they
+              do not have technical support to call, a roadmap to follow, or
+              a plain-language read on what any of it means.
             </p>
             <p className="mt-5 font-body text-lg leading-relaxed text-warm-gray">
-              So the tools sit half-used, and the business stays stuck. That gap,
-              between owning a tool and running on it, is where businesses get left
-              behind.
+              So the tools sit half-used, and the organization stays stuck. That
+              gap, between owning a tool and running on it, is where
+              organizations get left behind.
             </p>
 
             {/* Evidence, drawn from the research file */}

@@ -45,18 +45,20 @@ export default function Hero() {
 
         <motion.h1
           variants={item}
-          className="mt-7 max-w-4xl font-display text-4xl font-light leading-[1.08] text-warm-paper sm:text-5xl lg:text-6xl"
+          className="mt-7 max-w-5xl font-display text-4xl font-light leading-[1.08] text-warm-paper sm:text-5xl lg:text-6xl"
         >
-          Your business runs on people. Let agents do the rest.
+          Most organizations know AI matters.{' '}
+          <br />
+          Almost none have made it work.
         </motion.h1>
 
         <motion.p
           variants={item}
           className="mt-8 max-w-2xl font-body text-lg leading-relaxed text-warm-paper/70"
         >
-          Most owners have already tried AI. Few have made it pay. Elevia Group
-          tells you plainly what is worth doing and what is safe, then builds the
-          operating model that puts it to work inside your business.
+          The gap is not a technology problem, it is a translation problem. We
+          tell you plainly what is worth doing and what is safe, then build the
+          systems that put it to work.
         </motion.p>
 
         <motion.div variants={item} className="mt-10">

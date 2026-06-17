@@ -37,14 +37,13 @@ export default function HlaoPage() {
               </p>
             </div>
             <h1 className="mt-7 font-display text-4xl font-light leading-[1.1] text-warm-paper sm:text-5xl">
-              A way of operating that keeps your people in charge while agents
-              carry the load.
+              Human-Led, Agent-Operated
             </h1>
             <p className="mt-8 max-w-2xl font-body text-lg leading-relaxed text-warm-paper/70">
-              Every organization runs on people who both lead and operate.
-              Human-Led, Agent-Operated splits those two jobs. Your team sets
-              direction and makes the calls. Agents take the repetitive work that
-              does not need judgment. You run leaner, and you keep control.
+              Organizations have always been human-led, and that will not change.
+              What changes is who operates them. For the first time, the daily
+              work of running the place does not have to land on people, it can
+              land on agents.
             </p>
           </Reveal>
         </div>

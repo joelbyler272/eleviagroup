@@ -33,9 +33,9 @@ export default function Footer() {
               <Wordmark tone="light" />
             </Link>
             <p className="mt-5 max-w-sm font-body text-base leading-relaxed text-warm-paper/60">
-              A Digital Transformation Advisory firm. We translate AI into plain
-              language, then build the operating model that puts it to work inside
-              your business.
+              A Digital Transformation Advisory firm. We translate AI into
+              plain language, and bridge the gap between knowing AI and putting
+              it to work.
             </p>
             <p className="mt-6 font-sans text-xs font-medium uppercase tracking-label text-warm-gray">
               Human-Led, Agent-Operated

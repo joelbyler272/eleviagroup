@@ -23,7 +23,8 @@ export default function WhatWeDo() {
           <Reveal className="lg:pt-2">
             <p className="max-w-md font-body text-lg leading-relaxed text-warm-gray">
               We translate AI into plain language and clear decisions. Then we
-              build the operating model that puts it to work inside your business.
+              build the roadmap and operating model that puts it to work inside
+              your organization.
             </p>
           </Reveal>
 

@@ -110,7 +110,8 @@ export default function AosVsWorkflows() {
           <div className="mt-14 border-t border-warm-amber/40 pt-8">
             <p className="max-w-3xl font-display text-2xl font-light leading-snug text-warm-paper sm:text-3xl">
               The question is not whether to automate. It is whether to stop at
-              automation, or build something that actually runs the place.
+              automation, or build something that exponentially scales the
+              impact the organization creates.
             </p>
           </div>
         </Reveal>

@@ -4,6 +4,7 @@ import CTA from '@/components/CTA'
 import Reveal from '@/components/Reveal'
 import LayerStack from '@/components/hlao/LayerStack'
 import HlaoSplit from '@/components/hlao/HlaoSplit'
+import AosVsWorkflows from '@/components/hlao/AosVsWorkflows'
 import HlaoPrinciples from '@/components/hlao/HlaoPrinciples'
 import HlaoQuestions from '@/components/hlao/HlaoQuestions'
 
@@ -51,6 +52,9 @@ export default function HlaoPage() {
 
       {/* One job becomes two (soft teal) */}
       <HlaoSplit />
+
+      {/* AOS vs automated workflows (warm paper) */}
+      <AosVsWorkflows />
 
       {/* The seven layers (warm paper) */}
       <section className="bg-warm-paper">

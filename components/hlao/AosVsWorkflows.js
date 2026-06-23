@@ -38,7 +38,7 @@ export default function AosVsWorkflows() {
           <p className="mt-6 font-body text-lg leading-relaxed text-warm-paper/70">
             Most organizations start with workflows: if a form is submitted,
             send a notification. If a payment clears, update the ledger. That is
-            useful. But it is not transformation. Transformation is when the
+            useful, but it is not transformation. Transformation is when the
             system itself runs the operational side of your organization, learns
             from your corrections, and compounds over time.
           </p>
